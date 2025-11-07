@@ -6,5 +6,37 @@
     "adapter-based tuning",
     "fine-tuning regularization",
     "hyperparameter search fine-tuning"
+  ],
+  "research_study_list": [
+    {
+      "title": "Spectral Adapter: Fine-Tuning in Spectral Space"
+    },
+    {
+      "title": "Parameter-Efficient Fine-Tuning Design Spaces"
+    },
+    {
+      "title": "DoRA: Weight-Decomposed Low-Rank Adaptation"
+    },
+    {
+      "title": "DoRA: Weight-Decomposed Low-Rank Adaptation"
+    },
+    {
+      "title": "Spectral Adapter: Fine-Tuning in Spectral Space"
+    },
+    {
+      "title": "Adapters Strike Back"
+    },
+    {
+      "title": "Distance-Based Regularisation of Deep Networks for Fine-Tuning"
+    },
+    {
+      "title": "A Theoretical Analysis of Fine-tuning with Linear Teachers"
+    },
+    {
+      "title": "Economic Hyperparameter Optimization With Blended Search Strategy"
+    },
+    {
+      "title": "Practical Differentially Private Hyperparameter Tuning with Subsampling"
+    }
   ]
 }
